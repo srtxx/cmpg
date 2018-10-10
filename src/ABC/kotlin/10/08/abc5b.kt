@@ -12,3 +12,4 @@ fun main(args: Array<String>) {
 // list : 重複可能、順序有り
 // set  : 重複不可能、順序なし
 // map  : keyvalueのペア
+// setの方が早くなるかな？と思ったけど別にそんなことなかった
