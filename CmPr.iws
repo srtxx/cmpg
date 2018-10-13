@@ -3,16 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="354f7633-69a7-4c7c-82c9-1cacb3c71c0e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/CmPr.iws" beforeDir="false" afterPath="$PROJECT_DIR$/CmPr.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ABC/kotlin/10/05/abc4b.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ABC/kotlin/10/08/abc5b.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ABC/kotlin/10/10/abc6b.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ABC/kotlin/10/10/abc7b.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ABC/kotlin/10/1001/abc2b.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ABC/kotlin/10/1002/abc3b.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ABC/kotlin/10/1011/abc08.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ABC/kotlin/9/0929/1a.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ABC/kotlin/9/0930/abc1a.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ABC/kotlin/9/0930/abc1a.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ABC/kotlin/2018Oct/abc08.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ABC/kotlin/2018Oct/abc2b.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ABC/kotlin/2018Oct/abc3b.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ABC/kotlin/2018Oct/abc4b.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ABC/kotlin/2018Oct/abc5b.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ABC/kotlin/2018Oct/abc6b.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ABC/kotlin/2018Oct/abc7b.kt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,7 +33,13 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ABC/kotlin/2018Oct/abc009b.kt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -106,14 +109,6 @@
               <item name="ABC" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="kotlin" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="2018Oct" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="CmPr" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="CmPr" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="ABC" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="kotlin" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="2018Sep" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -259,12 +254,12 @@
       <workItem from="1539353268671" duration="271000" />
       <workItem from="1539441725095" duration="555000" />
       <workItem from="1539442825062" duration="10000" />
-      <workItem from="1539442837706" duration="233000" />
+      <workItem from="1539442837706" duration="418000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19063000" />
+    <option name="totallyTimeSpent" value="19248000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -371,6 +366,16 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ABC/kotlin/9/abc1a.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ABC/kotlin/2018Oct/abc09b.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ABC/kotlin/2018Oct/abc009b.kt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
