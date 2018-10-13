@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="354f7633-69a7-4c7c-82c9-1cacb3c71c0e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/CmPr.iws" beforeDir="false" afterPath="$PROJECT_DIR$/CmPr.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CmPr/ABC/kotlin/9/0930/abc1a.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CmPr/Abc1aKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CmPr/Abc2bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CmPr/Abc3bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CmPr/Abc4bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CmPr/Abc5bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CmPr/Abc6bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CmPr/Abc7bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CmPr/META-INF/CmPr.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CmPr/META-INF/CmPr.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ABC/kotlin/2018Oct/abc08.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ABC/kotlin/2018Oct/abc09b.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ABC/kotlin/2018Oct/abc09b.kt" afterDir="false" />
-    </list>
+    <list default="true" id="354f7633-69a7-4c7c-82c9-1cacb3c71c0e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -228,12 +215,12 @@
       <workItem from="1539441725095" duration="555000" />
       <workItem from="1539442825062" duration="10000" />
       <workItem from="1539442837706" duration="926000" />
-      <workItem from="1539444506105" duration="275000" />
+      <workItem from="1539444506105" duration="541000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20031000" />
+    <option name="totallyTimeSpent" value="20297000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -246,7 +233,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.123032905" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -254,14 +240,14 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32951653" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32951653" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32951653" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32951653" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32951653" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32951653" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
