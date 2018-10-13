@@ -3,6 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="354f7633-69a7-4c7c-82c9-1cacb3c71c0e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/CmPr.iws" beforeDir="false" afterPath="$PROJECT_DIR$/CmPr.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ABC/kotlin/10/05/abc4b.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ABC/kotlin/10/08/abc5b.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ABC/kotlin/10/10/abc6b.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ABC/kotlin/10/10/abc7b.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ABC/kotlin/10/1001/abc2b.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ABC/kotlin/10/1002/abc3b.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ABC/kotlin/10/1011/abc08.kt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ABC/kotlin/9/0929/1a.kt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ABC/kotlin/9/0930/abc1a.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ABC/kotlin/9/0930/abc1a.kt" beforeDir="false" />
@@ -29,18 +36,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ABC/kotlin/9/1a.kt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ABC/kotlin/9/abc1a.kt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -78,7 +74,51 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="CmPr" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="CmPr" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="CmPr" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="CmPr" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="CmPr" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="CmPr" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ABC" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="CmPr" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="CmPr" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ABC" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="kotlin" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="CmPr" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="CmPr" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ABC" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="kotlin" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="2018Oct" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="CmPr" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="CmPr" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ABC" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="kotlin" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="2018Sep" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -219,11 +259,12 @@
       <workItem from="1539353268671" duration="271000" />
       <workItem from="1539441725095" duration="555000" />
       <workItem from="1539442825062" duration="10000" />
+      <workItem from="1539442837706" duration="233000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18830000" />
+    <option name="totallyTimeSpent" value="19063000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -236,9 +277,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12017167" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12160229" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -251,7 +291,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32951653" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32951653" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32951653" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32951653" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
