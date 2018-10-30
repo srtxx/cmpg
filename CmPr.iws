@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="354f7633-69a7-4c7c-82c9-1cacb3c71c0e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ABC/kotlin/2018Oct/abc24b.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ABC/kotlin/2018Oct/abc26b.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ABC/kotlin/2018Oct/abc29b.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ABC/kotlin/2018Oct/abc30b.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ABC/kotlin/sandbox/paizaA025.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CmPr.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/CmPr.ipr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CmPr.iws" beforeDir="false" afterPath="$PROJECT_DIR$/CmPr.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CmPr/Abc03bKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CmPr/Abc03bKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CmPr/Abc10bKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CmPr/Abc10bKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CmPr/Abc14bKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CmPr/Abc14bKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CmPr/Abc15bKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CmPr/Abc15bKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CmPr/Abc16bKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CmPr/Abc16bKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CmPr/Abc1bKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CmPr/Abc1bKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CmPr/Abc23bKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CmPr/Abc23bKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CmPr/META-INF/CmPr.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CmPr/META-INF/CmPr.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CmPr/_1aKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CmPr/_1aKt.class" afterDir="false" />
-    </list>
+    <list default="true" id="354f7633-69a7-4c7c-82c9-1cacb3c71c0e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -100,6 +83,7 @@
         <option value="$PROJECT_DIR$/src/ABC/kotlin/2018Oct/abc27b.kt" />
         <option value="$PROJECT_DIR$/src/ABC/kotlin/2018Oct/abc29b.kt" />
         <option value="$PROJECT_DIR$/src/ABC/kotlin/2018Oct/abc30b.kt" />
+        <option value="$PROJECT_DIR$/src/ABC/kotlin/2018Oct/abc31b.kt" />
       </list>
     </option>
   </component>
@@ -184,8 +168,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/ABC/kotlin/sandbox" />
       <recent name="$PROJECT_DIR$/src/ABC/kotlin/2018Oct" />
+      <recent name="$PROJECT_DIR$/src/ABC/kotlin/sandbox" />
       <recent name="$PROJECT_DIR$/src/ABC/kotlin/10/05" />
       <recent name="$PROJECT_DIR$/src/ABC/kotlin/10" />
       <recent name="$PROJECT_DIR$/src/ABC/kotlin" />
@@ -208,7 +192,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Abc30bKt">
+  <component name="RunManager" selected="Kotlin.Abc31bKt">
     <configuration name="PaizaA025Kt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PaizaA025Kt" />
       <method v="2">
@@ -254,14 +238,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PaizaA025Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Abc31bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CmPr" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="PaizaA025Kt" />
+      <option name="MAIN_CLASS_NAME" value="Abc31bKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -269,11 +253,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Abc31bKt" />
         <item itemvalue="Kotlin.Abc30bKt" />
         <item itemvalue="Kotlin.Abc29bKt" />
         <item itemvalue="Kotlin.Abc27bKt" />
         <item itemvalue="Application.PaizaA025Kt" />
-        <item itemvalue="Kotlin.PaizaA025Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -308,12 +292,12 @@
       <workItem from="1540378191992" duration="5766000" />
       <workItem from="1540448298823" duration="260000" />
       <workItem from="1540448582168" duration="7541000" />
-      <workItem from="1540635416335" duration="4679000" />
+      <workItem from="1540635416335" duration="6864000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63238000" />
+    <option name="totallyTimeSpent" value="65423000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -327,14 +311,14 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.062947065" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.062947065" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" visible="true" weight="0.32771084" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4985694" visible="true" weight="0.32771084" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -563,6 +547,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ABC/kotlin/2018Oct/abc31b.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
         </state>
       </provider>
     </entry>
