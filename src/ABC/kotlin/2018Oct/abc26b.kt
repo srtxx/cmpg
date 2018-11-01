@@ -10,6 +10,6 @@ fun main(args: Array<String>) {
     println(r * Math.PI)
 }
 
-// 逆順に並び替えて交互に赤白赤白…と塗った　やるだけ
+// 逆順に並び替えて交互に赤白赤白…と塗った　
 // a.sortDescending()逆順にソート
 // a.forEachIndexed() 引数を取るforEach()
