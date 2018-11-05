@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="354f7633-69a7-4c7c-82c9-1cacb3c71c0e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/ABC/kotlin/2018Nov/abc37b.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ABC/kotlin/2018Nov/abc37b.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ABC/kotlin/2018Nov/abc38b.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ABC/kotlin/2018Nov/abc39b.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ABC/kotlin/2018Nov/abc40b.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ABC/kotlin/2018Nov/abc41b.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ABC/kotlin/2018Nov/abc42b.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ABC/kotlin/2018Nov/abc43b.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CmPr.iws" beforeDir="false" afterPath="$PROJECT_DIR$/CmPr.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CmPr/ABC/kotlin/sandbox/aaaa.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CmPr/Abc37bKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CmPr/META-INF/CmPr.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ABC/kotlin/sandbox/kotlin/collections/CollectionsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ABC/kotlin/sandbox/kotlin/collections/CollectionsKt.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,8 +38,21 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ABC/kotlin/2018Nov/abc37b.kt">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/ABC/kotlin/2018Nov/abc43b.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="79" selection-start-line="14" selection-start-column="79" selection-end-line="14" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ABC/kotlin/2018Nov/abc42b.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -98,10 +121,16 @@
         <option value="$PROJECT_DIR$/src/ABC/kotlin/2018Nov/abc33b.kt" />
         <option value="$PROJECT_DIR$/src/ABC/kotlin/2018Nov/abc36b.kt" />
         <option value="$PROJECT_DIR$/src/ABC/kotlin/2018Nov/abc37b.kt" />
+        <option value="$PROJECT_DIR$/src/ABC/kotlin/2018Nov/abc38b.kt" />
+        <option value="$PROJECT_DIR$/src/ABC/kotlin/2018Nov/abc39b.kt" />
+        <option value="$PROJECT_DIR$/src/ABC/kotlin/2018Nov/abc40b.kt" />
+        <option value="$PROJECT_DIR$/src/ABC/kotlin/2018Nov/abc41b.kt" />
+        <option value="$PROJECT_DIR$/src/ABC/kotlin/2018Nov/abc42b.kt" />
+        <option value="$PROJECT_DIR$/src/ABC/kotlin/2018Nov/abc43b.kt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -111,6 +140,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CmPr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmpg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CmPr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmpg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -136,27 +182,18 @@
               <item name="ABC" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="kotlin" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
             <path>
-              <item name="CmPr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cmpg" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CmPr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cmpg" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="CmPr" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="CmPr" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ABC" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="kotlin" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="2018Nov" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -198,67 +235,67 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Abc37bKt">
-    <configuration name="Abc33bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.Abc43bKt">
+    <configuration name="Abc39bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CmPr" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Abc33bKt" />
+      <option name="MAIN_CLASS_NAME" value="Abc39bKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Abc34bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Abc40bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CmPr" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Abc34bKt" />
+      <option name="MAIN_CLASS_NAME" value="Abc40bKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Abc35bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Abc41bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CmPr" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Abc35bKt" />
+      <option name="MAIN_CLASS_NAME" value="Abc41bKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Abc36bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Abc42bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CmPr" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Abc36bKt" />
+      <option name="MAIN_CLASS_NAME" value="Abc42bKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Abc37bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Abc43bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CmPr" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Abc37bKt" />
+      <option name="MAIN_CLASS_NAME" value="Abc43bKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -266,11 +303,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Abc37bKt" />
-        <item itemvalue="Kotlin.Abc36bKt" />
-        <item itemvalue="Kotlin.Abc35bKt" />
-        <item itemvalue="Kotlin.Abc34bKt" />
-        <item itemvalue="Kotlin.Abc33bKt" />
+        <item itemvalue="Kotlin.Abc43bKt" />
+        <item itemvalue="Kotlin.Abc42bKt" />
+        <item itemvalue="Kotlin.Abc41bKt" />
+        <item itemvalue="Kotlin.Abc40bKt" />
+        <item itemvalue="Kotlin.Abc39bKt" />
       </list>
     </recent_temporary>
   </component>
@@ -310,11 +347,12 @@
       <workItem from="1541033591543" duration="1887000" />
       <workItem from="1541037155258" duration="2612000" />
       <workItem from="1541126494005" duration="6226000" />
+      <workItem from="1541244941677" duration="11550000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80059000" />
+    <option name="totallyTimeSpent" value="91609000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -326,15 +364,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.08583691" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08655222" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" weight="0.32771084" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4985694" visible="true" weight="0.32771084" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -605,6 +644,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ABC/kotlin/2018Nov/abc37b.kt">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ABC/kotlin/2018Nov/abc38b.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ABC/kotlin/2018Nov/abc39b.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ABC/kotlin/2018Nov/abc40b.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ABC/kotlin/2018Nov/abc41b.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ABC/kotlin/2018Nov/abc42b.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ABC/kotlin/2018Nov/abc43b.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="79" selection-start-line="14" selection-start-column="79" selection-end-line="14" selection-end-column="79" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
