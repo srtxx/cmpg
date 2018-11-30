@@ -18,3 +18,4 @@ fun main(args: Array<String>) {
     }
     println(r)
 }
+// 愚直さは時に重要
