@@ -1,0 +1,97 @@
+// Decompiled by Jad v1.5.8g. Copyright 2001 Pavel Kouznetsov.
+// Jad home page: http://www.kpdus.com/jad.html
+// Decompiler options: packimports(3) 
+// Source File Name:   paizaA025.kt
+
+import java.io.PrintStream;
+import java.util.*;
+import kotlin.collections.CollectionsKt;
+import kotlin.io.ConsoleKt;
+import kotlin.jvm.internal.Intrinsics;
+import kotlin.text.StringsKt;
+
+public final class PaizaA025Kt
+{
+
+    public static final void main(String args[])
+    {
+        Intrinsics.checkParameterIsNotNull(args, "args");
+        String s4 = ConsoleKt.readLine();
+        if(s4 == null)
+            Intrinsics.throwNpe();
+        Iterable $receiver$iv = (Iterable)StringsKt.split$default((CharSequence)s4, new String[] {
+            " "
+        }, false, 0, 6, null);
+        Object obj = $receiver$iv;
+        Collection destination$iv$iv = (Collection)new ArrayList(CollectionsKt.collectionSizeOrDefault($receiver$iv, 10));
+        Collection collection;
+        Integer integer;
+        for(Iterator iterator = ((Iterable) (obj)).iterator(); iterator.hasNext(); collection.add(integer))
+        {
+            Object item$iv$iv = iterator.next();
+            String s = (String)item$iv$iv;
+            collection = destination$iv$iv;
+            String s1 = s;
+            integer = Integer.valueOf(Integer.parseInt(s1));
+        }
+
+        List a = (List)destination$iv$iv;
+        $receiver$iv = a;
+        int n = ((Number)$receiver$iv.get(0)).intValue();
+        $receiver$iv = a;
+        int w = ((Number)$receiver$iv.get(1)).intValue();
+        $receiver$iv = a;
+        int mw = ((Number)$receiver$iv.get(2)).intValue();
+        a = CollectionsKt.mutableListOf(new Integer[] {
+            Integer.valueOf(w)
+        });
+        List ca = (List)new ArrayList();
+        int i = 0;
+        int k = n;
+        String s5;
+        do
+        {
+            if(i >= k)
+                break;
+            ca = (List)new ArrayList();
+            s5 = ConsoleKt.readLine();
+            if(s5 == null)
+                Intrinsics.throwNpe();
+            Iterable $receiver$iv = (Iterable)StringsKt.split$default((CharSequence)s5, new String[] {
+                " "
+            }, false, 0, 6, null);
+            Object obj1 = $receiver$iv;
+            Collection destination$iv$iv = (Collection)new ArrayList(CollectionsKt.collectionSizeOrDefault($receiver$iv, 10));
+            Collection collection1;
+            Integer integer1;
+            for(Iterator iterator1 = ((Iterable) (obj1)).iterator(); iterator1.hasNext(); collection1.add(integer1))
+            {
+                Object item$iv$iv = iterator1.next();
+                String s2 = (String)item$iv$iv;
+                collection1 = destination$iv$iv;
+                String s3 = s2;
+                integer1 = Integer.valueOf(Integer.parseInt(s3));
+            }
+
+            List list = (List)destination$iv$iv;
+            $receiver$iv = list;
+            int wl = ((Number)$receiver$iv.get(0)).intValue();
+            $receiver$iv = list;
+            int wg = ((Number)$receiver$iv.get(1)).intValue();
+            int j = 0;
+            obj1 = (Collection)a;
+            for(int l = ((Collection) (obj1)).size(); j < l; j++)
+            {
+                ca.add(Integer.valueOf(((Number)a.get(j)).intValue() - wl));
+                if(((Number)a.get(j)).intValue() + wg <= mw)
+                    ca.add(Integer.valueOf(((Number)a.get(j)).intValue() + wg));
+            }
+
+            a = ca;
+            i++;
+        } while(true);
+        i = (Collection)a;
+        i = i.size();
+        System.out.println(i);
+    }
+}
