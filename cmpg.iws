@@ -2,87 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="204d0abd-b6f0-498d-ac7d-2b6bdc38e871" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ABC/2018Dec/abc85b.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ABC/2018Dec/abc86b.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ABC/2018Dec/abc87b.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ABC/2018Dec/abc88b.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmpg.iws" beforeDir="false" afterPath="$PROJECT_DIR$/cmpg.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc02bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc03bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc04bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc05bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc06bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc07bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc08bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc09bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc109bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc10bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc111bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc11bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc12bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc13bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc14bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc15bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc16bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc17bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc19bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc1bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc20bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc21bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc22bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc23bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc24bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc25bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc26bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc27bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc29bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc30bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc31bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc32bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc33bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc34bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc35bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc36bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc38bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc39bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc40bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc41bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc42bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc43bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc44bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc45bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc46bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc47bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc48bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc49bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc50bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc51bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc52bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc53bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc54bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc55bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc56bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc58bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc59bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc60bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc61bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc62bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc63bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc66bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc67bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc68bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc69bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc71bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc73bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc76bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc77bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc78bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc79bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc80bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc82bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc83bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc84bKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/META-INF/cmpg.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/PaizaA025Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/VortexKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/_1aKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cmpg/META-INF/cmpg.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/cmpg/META-INF/cmpg.kotlin_module" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -92,7 +16,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ABC/2018Dec/abc88b.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -112,11 +46,15 @@
         <option value="$PROJECT_DIR$/src/ABC/2018Dec/abc83b.kt" />
         <option value="$PROJECT_DIR$/src/ABC/2018Dec/abc84b.kt" />
         <option value="$PROJECT_DIR$/src/ABC/2018Dec/abc85b.kt" />
+        <option value="$PROJECT_DIR$/src/ABC/2018Dec/abc86b.kt" />
+        <option value="$PROJECT_DIR$/src/ABC/abc85b.kt" />
+        <option value="$PROJECT_DIR$/src/ABC/2018Dec/abc87b.kt" />
+        <option value="$PROJECT_DIR$/src/ABC/2018Dec/abc88b.kt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="203" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
@@ -128,8 +66,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Course" />
       <pane id="PackagesPane" />
+      <pane id="Course" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -169,6 +107,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ABC/2018Dec" />
+    </key>
+  </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="abc80b" />
@@ -188,20 +131,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Abc85bKt">
-    <configuration name="Abc80bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="cmpg" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Abc80bKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Abc88bKt">
     <configuration name="Abc84bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="cmpg" />
       <option name="VM_PARAMETERS" />
@@ -228,11 +158,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Abc86bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="cmpg" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Abc86bKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Abc87bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="cmpg" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Abc87bKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Abc88bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="cmpg" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Abc88bKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Abc88bKt" />
+        <item itemvalue="Kotlin.Abc87bKt" />
+        <item itemvalue="Kotlin.Abc86bKt" />
         <item itemvalue="Kotlin.Abc85bKt" />
         <item itemvalue="Kotlin.Abc84bKt" />
-        <item itemvalue="Kotlin.Abc80bKt" />
       </list>
     </recent_temporary>
   </component>
@@ -249,17 +220,22 @@
       <workItem from="1543570924940" duration="688000" />
       <workItem from="1543571684303" duration="5527000" />
       <workItem from="1543897067043" duration="310000" />
-      <workItem from="1543897776292" duration="2013000" />
+      <workItem from="1543897776292" duration="3462000" />
+      <workItem from="1543915242871" duration="355000" />
+      <workItem from="1543915916731" duration="585000" />
+      <workItem from="1543974226941" duration="8000" />
+      <workItem from="1543974972024" duration="40000" />
+      <workItem from="1543975197338" duration="1982000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8538000" />
+    <option name="totallyTimeSpent" value="12957000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.095135905" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.101573676" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -273,9 +249,10 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3299363" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007153" side_tool="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3299363" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -327,7 +304,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ABC/2018Dec/abc87b.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ABC/2018Dec/abc86b.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ABC/2018Dec/abc87b.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ABC/2018Dec/abc85b.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ABC/2018Dec/abc88b.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
