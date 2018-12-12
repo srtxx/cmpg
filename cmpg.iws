@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="204d0abd-b6f0-498d-ac7d-2b6bdc38e871" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ABC/2018Dec/abc113b.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ABC/2018Dec/abc114b.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ABC/2018Dec/abc115b.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ABC/2018Dec/abc115c.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ABC/2018Dec/abc94b.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ABC/2018Dec/abc95b.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ABC/2018Dec/abc96b.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ABC/2018Dec/abc110b.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ABC/2018Dec/abc112b.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ABC/2018Dec/abc97b.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ABC/2018Dec/abc98b.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmpg.iws" beforeDir="false" afterPath="$PROJECT_DIR$/cmpg.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc93bKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/cmpg/Abc93bKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/cmpg/META-INF/cmpg.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/cmpg/META-INF/cmpg.kotlin_module" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,7 +17,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ABC/2018Dec/abc98b.kt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -57,6 +59,11 @@
         <option value="$PROJECT_DIR$/src/ABC/2018Dec/abc115c.kt" />
         <option value="$PROJECT_DIR$/src/ABC/2018Dec/abc113b.kt" />
         <option value="$PROJECT_DIR$/src/ABC/2018Dec/abc114b.kt" />
+        <option value="$PROJECT_DIR$/src/ABC/2018Dec/abc112b.kt" />
+        <option value="$PROJECT_DIR$/src/ABC/2018Dec/abc111b.kt" />
+        <option value="$PROJECT_DIR$/src/ABC/2018Dec/abc110b.kt" />
+        <option value="$PROJECT_DIR$/src/ABC/2018Dec/abc97b.kt" />
+        <option value="$PROJECT_DIR$/src/ABC/2018Dec/abc98b.kt" />
       </list>
     </option>
   </component>
@@ -68,7 +75,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="1440" />
+    <option name="width" value="1920" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -79,7 +86,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Course" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
@@ -111,6 +117,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -120,6 +127,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -132,6 +140,8 @@
       <command value="Abc80bKt" />
       <command value="readLine()!!.split(&quot; &quot;).map(String::toInt)" />
       <command value="val n = readLine()!!.split(&quot; &quot;).map(String::toInt)" />
+      <command value="Abc111b.kt" />
+      <command value="Abc111bKt" />
     </option>
   </component>
   <component name="RunDashboard">
@@ -146,15 +156,41 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Abc114bKt">
-    <configuration name="Abc113bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.Abc97bKt">
+    <configuration name="Abc110bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="cmpg" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Abc113bKt" />
+      <option name="MAIN_CLASS_NAME" value="Abc110bKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Abc111bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="cmpg" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Abc111bKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Abc112bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="cmpg" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Abc112bKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -173,40 +209,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Abc115bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Abc97bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="cmpg" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Abc115bKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Abc115cKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="cmpg" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Abc115cKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Abc95bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="cmpg" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Abc95bKt" />
+      <option name="MAIN_CLASS_NAME" value="Abc97bKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -214,11 +224,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Abc97bKt" />
+        <item itemvalue="Kotlin.Abc110bKt" />
+        <item itemvalue="Kotlin.Abc111bKt" />
+        <item itemvalue="Kotlin.Abc112bKt" />
         <item itemvalue="Kotlin.Abc114bKt" />
-        <item itemvalue="Kotlin.Abc113bKt" />
-        <item itemvalue="Kotlin.Abc115cKt" />
-        <item itemvalue="Kotlin.Abc115bKt" />
-        <item itemvalue="Kotlin.Abc95bKt" />
       </list>
     </recent_temporary>
   </component>
@@ -243,23 +253,26 @@
       <workItem from="1543975197338" duration="6338000" />
       <workItem from="1544153883404" duration="5374000" />
       <workItem from="1544278497508" duration="1867000" />
-      <workItem from="1544356701992" duration="3281000" />
+      <workItem from="1544356701992" duration="4176000" />
+      <workItem from="1544506789266" duration="2902000" />
+      <workItem from="1544516624457" duration="1311000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27835000" />
+    <option name="totallyTimeSpent" value="32943000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10586552" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11015737" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -425,6 +438,31 @@
           <caret line="7" column="1" lean-forward="true" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ABC/2018Dec/abc111b.kt" />
+    <entry file="file://$PROJECT_DIR$/src/ABC/2018Dec/abc112b.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ABC/2018Dec/abc110b.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ABC/2018Dec/abc97b.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ABC/2018Dec/abc98b.kt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
