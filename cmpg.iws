@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="204d0abd-b6f0-498d-ac7d-2b6bdc38e871" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ABC/2018Dec/abc107b.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ABC/2018Dec/abc109b.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmpg.iws" beforeDir="false" afterPath="$PROJECT_DIR$/cmpg.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc109bKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/cmpg/Abc109bKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc110bKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/cmpg/Abc110bKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cmpg/META-INF/cmpg.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/cmpg/META-INF/cmpg.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ABC/2018Dec/abc110b.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ABC/2018Dec/abc110b.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ABC/2018Dec/abc98b.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ABC/2018Dec/abc98b.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ABC/2018Nov/abc109b.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ABC/2018Dec/abc99b.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ABC/2018Dec/abc99b.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,10 +15,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ABC/2018Dec/abc98b.kt">
+        <entry file="file://$PROJECT_DIR$/src/ABC/2018Dec/abc99b.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="8" />
+            <state relative-caret-position="240">
+              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -78,6 +71,7 @@
         <option value="$PROJECT_DIR$/src/ABC/2018Dec/abc109b.kt" />
         <option value="$PROJECT_DIR$/src/ABC/2018Dec/abc107b.kt" />
         <option value="$PROJECT_DIR$/src/ABC/2018Dec/abc98b.kt" />
+        <option value="$PROJECT_DIR$/src/ABC/2018Dec/abc99b.kt" />
       </list>
     </option>
   </component>
@@ -173,7 +167,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Abc98bKt">
+  <component name="RunManager" selected="Kotlin.Abc99bKt">
     <configuration name="Abc107bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="cmpg" />
       <option name="VM_PARAMETERS" />
@@ -213,19 +207,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Abc97bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="cmpg" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Abc97bKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Abc98bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="cmpg" />
       <option name="VM_PARAMETERS" />
@@ -239,13 +220,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Abc99bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="cmpg" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Abc99bKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Abc99bKt" />
         <item itemvalue="Kotlin.Abc98bKt" />
         <item itemvalue="Kotlin.Abc107bKt" />
         <item itemvalue="Kotlin.Abc109bKt" />
         <item itemvalue="Kotlin.Abc110bKt" />
-        <item itemvalue="Kotlin.Abc97bKt" />
       </list>
     </recent_temporary>
   </component>
@@ -273,12 +267,12 @@
       <workItem from="1544356701992" duration="4176000" />
       <workItem from="1544506789266" duration="2902000" />
       <workItem from="1544516624457" duration="8638000" />
-      <workItem from="1544710357866" duration="1070000" />
+      <workItem from="1544710357866" duration="3106000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41340000" />
+    <option name="totallyTimeSpent" value="43376000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -495,9 +489,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ABC/2018Dec/abc98b.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ABC/2018Dec/abc99b.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="8" />
+        <state relative-caret-position="240">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
         </state>
       </provider>
     </entry>
