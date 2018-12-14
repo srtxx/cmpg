@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="204d0abd-b6f0-498d-ac7d-2b6bdc38e871" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ABC/2018Dec/abc100b.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ABC/2018Dec/abc101b.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ABC/2018Dec/abc102b.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ABC/2018Dec/abc103b.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmpg.iws" beforeDir="false" afterPath="$PROJECT_DIR$/cmpg.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ABC/2018Dec/abc99b.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ABC/2018Dec/abc99b.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cmpg/Abc99bKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/cmpg/Abc99bKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cmpg/META-INF/cmpg.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/cmpg/META-INF/cmpg.kotlin_module" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,10 +20,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ABC/2018Dec/abc99b.kt">
+        <entry file="file://$PROJECT_DIR$/src/ABC/2018Dec/abc103b.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -72,6 +77,9 @@
         <option value="$PROJECT_DIR$/src/ABC/2018Dec/abc107b.kt" />
         <option value="$PROJECT_DIR$/src/ABC/2018Dec/abc98b.kt" />
         <option value="$PROJECT_DIR$/src/ABC/2018Dec/abc99b.kt" />
+        <option value="$PROJECT_DIR$/src/ABC/2018Dec/abc100b.kt" />
+        <option value="$PROJECT_DIR$/src/ABC/2018Dec/abc101b.kt" />
+        <option value="$PROJECT_DIR$/src/ABC/2018Dec/abc102b.kt" />
       </list>
     </option>
   </component>
@@ -94,7 +102,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -124,8 +132,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -167,41 +175,41 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Abc99bKt">
-    <configuration name="Abc107bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.Abc102bKt">
+    <configuration name="Abc100bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="cmpg" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Abc107bKt" />
+      <option name="MAIN_CLASS_NAME" value="Abc100bKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Abc109bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Abc101bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="cmpg" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Abc109bKt" />
+      <option name="MAIN_CLASS_NAME" value="Abc101bKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Abc110bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Abc102bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="cmpg" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Abc110bKt" />
+      <option name="MAIN_CLASS_NAME" value="Abc102bKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -235,11 +243,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Abc102bKt" />
+        <item itemvalue="Kotlin.Abc101bKt" />
+        <item itemvalue="Kotlin.Abc100bKt" />
         <item itemvalue="Kotlin.Abc99bKt" />
         <item itemvalue="Kotlin.Abc98bKt" />
-        <item itemvalue="Kotlin.Abc107bKt" />
-        <item itemvalue="Kotlin.Abc109bKt" />
-        <item itemvalue="Kotlin.Abc110bKt" />
       </list>
     </recent_temporary>
   </component>
@@ -267,18 +275,45 @@
       <workItem from="1544356701992" duration="4176000" />
       <workItem from="1544506789266" duration="2902000" />
       <workItem from="1544516624457" duration="8638000" />
-      <workItem from="1544710357866" duration="3106000" />
+      <workItem from="1544710357866" duration="3185000" />
+      <workItem from="1544762225975" duration="4304000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43376000" />
+    <option name="totallyTimeSpent" value="47759000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11158799" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.113018595" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.3299363" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3299363" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007153" side_tool="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3299363" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3297568" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.113018595" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -302,7 +337,7 @@
       <window_info anchor="right" id="Maven" order="3" weight="0.3297568" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -495,6 +530,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ABC/2018Dec/abc100b.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="1" lean-forward="true" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ABC/2018Dec/abc101b.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ABC/2018Dec/abc102b.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" lean-forward="true" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ABC/2018Dec/abc103b.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
