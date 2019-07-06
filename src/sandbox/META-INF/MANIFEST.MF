@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-Created-By: JetBrains Kotlin
-Main-Class: PaizaA025Kt
-
